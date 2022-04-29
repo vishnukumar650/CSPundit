@@ -1,0 +1,54 @@
+.author{
+    font-weight: lighter;
+}
+h2:before {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin-right: 0.6em;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  width: 1.6em;
+  height: 1.6em;
+  font-weight: 900;
+  line-height: 1.6;
+  color: #FFF;
+  font-size: 1em;
+  background: #F77621;
+}
+.a0:before{
+    content: "1";
+}
+.a1:before{
+    content: "2";
+}
+.a2:before{
+    content: "3";
+}
+.a3:before{
+    content: "4";
+}
+.a4:before{
+    content: "5";
+}
+.a5:before{
+    content: "6";
+}
+.a6:before{
+    content: "7";
+}
+.a7:before{
+    content: "8";
+}
+.a8:before{
+    content: "9";
+}
+.a9:before{
+    content: "10";
+}
+.a10:before{
+    content: "11";
+}
